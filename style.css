@@ -1,0 +1,13 @@
+.body-design{
+    background-color: skyblue;
+}
+a{
+    font-weight: bold;
+}
+main > section > div > h1{
+    font-size: 40px;
+    font-weight: bold;
+}
+header, main{
+    background-color: thistle;
+}
